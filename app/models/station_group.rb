@@ -1,0 +1,2 @@
+class StationGroup < ApplicationRecord
+end

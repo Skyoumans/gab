@@ -1,0 +1,2 @@
+class OrgPhysicalAddress < ApplicationRecord
+end

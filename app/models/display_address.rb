@@ -1,0 +1,2 @@
+class DisplayAddress < ApplicationRecord
+end

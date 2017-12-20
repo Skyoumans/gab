@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: MyString
+  product_name: MyString
+  type: 
+  keywords: MyString
+  taxable: false
+  price: 1.5
+  total_sold: 1
+  gross_sale: 1.5
+  net_profit: 1.5
+  internal_notes: MyString
+
+two:
+  status: MyString
+  product_name: MyString
+  type: 
+  keywords: MyString
+  taxable: false
+  price: 1.5
+  total_sold: 1
+  gross_sale: 1.5
+  net_profit: 1.5
+  internal_notes: MyString

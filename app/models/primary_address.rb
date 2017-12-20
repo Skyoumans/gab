@@ -1,0 +1,2 @@
+class PrimaryAddress < ApplicationRecord
+end

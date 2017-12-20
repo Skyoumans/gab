@@ -1,0 +1,2 @@
+class StationGroupShippingAddress < ApplicationRecord
+end

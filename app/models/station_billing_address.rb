@@ -1,0 +1,2 @@
+class StationBillingAddress < ApplicationRecord
+end

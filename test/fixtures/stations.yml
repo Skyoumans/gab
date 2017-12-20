@@ -1,0 +1,49 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  call_letters: MyString
+  slogan: MyString
+  airing_type: MyString
+  frequency: MyString
+  organization: MyString
+  station_group: MyString
+  city_of_license: MyString
+  phone_one: MyString
+  phone_two: MyString
+  fax: MyString
+  email: MyString
+  website: MyString
+  member: false
+  type: 
+  dues_exp: MyString
+  current: false
+  gm: MyString
+  gm_email: MyString
+  county: MyString
+  format: MyString
+  twitter: MyString
+  facebook: MyString
+
+two:
+  call_letters: MyString
+  slogan: MyString
+  airing_type: MyString
+  frequency: MyString
+  organization: MyString
+  station_group: MyString
+  city_of_license: MyString
+  phone_one: MyString
+  phone_two: MyString
+  fax: MyString
+  email: MyString
+  website: MyString
+  member: false
+  type: 
+  dues_exp: MyString
+  current: false
+  gm: MyString
+  gm_email: MyString
+  county: MyString
+  format: MyString
+  twitter: MyString
+  facebook: MyString

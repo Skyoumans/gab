@@ -1,0 +1,2 @@
+class PepClient < ApplicationRecord
+end

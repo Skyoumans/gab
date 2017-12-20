@@ -1,0 +1,2 @@
+class Pep < ApplicationRecord
+end
