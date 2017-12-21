@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  organization: MyString
+  station_group: MyString
+  station: MyString
+
+two:
+  organization: MyString
+  station_group: MyString
+  station: MyString

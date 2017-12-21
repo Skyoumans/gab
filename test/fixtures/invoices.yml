@@ -1,0 +1,43 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  invoice_date: MyString
+  type: 
+  status: MyString
+  description: MyString
+  payment_type: MyString
+  check_number: MyString
+  check_amount: 1
+  timing: MyString
+  terms: MyString
+  discount_rate: MyString
+  date_due: 2017-12-21
+  date_deposit_amount_paid: 1
+  date_balance_due: 2017-12-21
+  subtotal_price: 1
+  discount_amount: 1
+  total: 1
+  amount_paid: 1
+  balance_paid: 1
+  amount_due: 1
+
+two:
+  invoice_date: MyString
+  type: 
+  status: MyString
+  description: MyString
+  payment_type: MyString
+  check_number: MyString
+  check_amount: 1
+  timing: MyString
+  terms: MyString
+  discount_rate: MyString
+  date_due: 2017-12-21
+  date_deposit_amount_paid: 1
+  date_balance_due: 2017-12-21
+  subtotal_price: 1
+  discount_amount: 1
+  total: 1
+  amount_paid: 1
+  balance_paid: 1
+  amount_due: 1
